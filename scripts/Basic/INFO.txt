@@ -1,0 +1,1 @@
+1. You can edit the list of commands. By editing the file commands.txt

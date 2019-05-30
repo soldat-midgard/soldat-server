@@ -1,0 +1,9 @@
+__________Commands:________________________________
+!ping             - Shows: Ping                   |
+!map              - Shows: Current map name       |
+!maps             - Shows: File mapslist.txt      |
+!time             - Shows: Current time on server |
+!alpha !blue !spec - Change Team                  |
+!ratio            - K/D ratio                     |
+!track            - Average & Max your ping       |        
+__________________________________________________|
